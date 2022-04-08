@@ -3,7 +3,8 @@
 
 
 import java.util.*;
-public class SecondLargestno {
+
+ public class SecondLargestno {
 
 		     public static void main(String []args)
 		     {
